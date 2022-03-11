@@ -3,6 +3,7 @@ package com.example.simpleparadox.listycity;
 public class City {
     private String city;
     private String province;
+//test
 
     public City(String city, String province){
         this.city = city;
